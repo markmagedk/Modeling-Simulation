@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Modeling-and-Simulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5CF0AE-2D6B-4A56-BC72-78A2E269F255}|InventoryModels\\InventoryModels.csproj|c:\\users\\lenovo\\onedrive\\documents\\github\\modeling-and-simulation\\inventorymodels\\simulationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5CF0AE-2D6B-4A56-BC72-78A2E269F255}|InventoryModels\\InventoryModels.csproj|solutionrelative:inventorymodels\\simulationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030CB62A-9D1B-411D-90C7-A74AABD04EC9}|InventorySimulation\\InventorySimulation.csproj|C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Modeling-and-Simulation\\inventorysimulation\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030CB62A-9D1B-411D-90C7-A74AABD04EC9}|InventorySimulation\\InventorySimulation.csproj|solutionrelative:inventorysimulation\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030CB62A-9D1B-411D-90C7-A74AABD04EC9}|InventorySimulation\\InventorySimulation.csproj|C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Modeling-and-Simulation\\inventorysimulation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{030CB62A-9D1B-411D-90C7-A74AABD04EC9}|InventorySimulation\\InventorySimulation.csproj|solutionrelative:inventorysimulation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030CB62A-9D1B-411D-90C7-A74AABD04EC9}|InventorySimulation\\InventorySimulation.csproj|C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Modeling-and-Simulation\\inventorysimulation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030CB62A-9D1B-411D-90C7-A74AABD04EC9}|InventorySimulation\\InventorySimulation.csproj|solutionrelative:inventorysimulation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Modeling-and-Simulation\\InventorySimulation\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "InventorySimulation\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Modeling-and-Simulation\\InventorySimulation\\Form1.Designer.cs",
+              "RelativeToolTip": "InventorySimulation\\Form1.Designer.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAUwGQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:27:03.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Modeling-and-Simulation\\InventorySimulation\\Form1.cs",
+              "RelativeDocumentMoniker": "InventorySimulation\\Form1.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Modeling-and-Simulation\\InventorySimulation\\Form1.cs",
+              "RelativeToolTip": "InventorySimulation\\Form1.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:26:59.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Modeling-and-Simulation\\InventorySimulation\\Form1.cs",
+              "RelativeDocumentMoniker": "InventorySimulation\\Form1.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Downloads\\InventorySimulation\\InventorySimulation\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\InventorySimulation\\InventorySimulation\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:26:56.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimulationSystem.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Modeling-and-Simulation\\InventoryModels\\SimulationSystem.cs",
+              "RelativeDocumentMoniker": "InventoryModels\\SimulationSystem.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Documents\\GitHub\\Modeling-and-Simulation\\InventoryModels\\SimulationSystem.cs",
+              "RelativeToolTip": "InventoryModels\\SimulationSystem.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwDIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:22:10.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
