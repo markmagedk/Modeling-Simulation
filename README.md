@@ -1,51 +1,39 @@
-📦 Inventory Simulation System
-This project is a C# console application that simulates an inventory system. It helps manage stock levels, order timing, and demand variations using probability distributions.
+# 📦 Inventory Simulation System  
 
-✨ Features
-✔️ Reads inventory settings from a file
-✔️ Uses demand and lead time probability distributions
-✔️ Simulates daily inventory changes
-✔️ Calculates average ending inventory and average shortage quantity
+This project is a **C# console application** that simulates an inventory system. It helps manage stock levels, order timing, and demand variations using **probability distributions**.  
 
-📂 How It Works
-Read Input File 📄
+## ✨ Features  
+✔️ Reads inventory settings from a file  
+✔️ Uses **demand** and **lead time** probability distributions  
+✔️ Simulates daily inventory changes  
+✔️ Calculates **average ending inventory** and **average shortage quantity**  
 
-Loads inventory settings from a text file (like OrderUpTo, ReviewPeriod, etc.).
+## 📂 How It Works  
+1. **Read Input File** 📄  
+   - Loads inventory settings from a text file (like `OrderUpTo`, `ReviewPeriod`, etc.).  
+   - Parses demand and lead time distributions.  
 
-Parses demand and lead time distributions.
+2. **Generate Simulation Table** 📊  
+   - Simulates inventory changes for each day.  
+   - Uses **random values** to determine demand and order arrival.  
 
-Generate Simulation Table 📊
+3. **Calculate Performance Measures** 📈  
+   - Computes the average ending inventory.  
+   - Computes the average shortage quantity.  
 
-Simulates inventory changes for each day.
+## 📌 Key Classes  
+- `SimulationSystem` → Manages the whole process.  
+- `Distribution` → Stores probability data for demand & lead time.  
+- `SimulationCase` → Represents daily inventory state.  
+- `PerformanceMeasures` → Stores final performance results.  
 
-Uses random values to determine demand and order arrival.
+## 🛠 How to Run  
+1. Open the project in **Visual Studio**.  
+2. Make sure the input file is in the correct folder (`TestCases/`).  
+3. Run the program and check the output.  
 
-Calculate Performance Measures 📈
-
-Computes the average ending inventory.
-
-Computes the average shortage quantity.
-
-📌 Key Classes
-SimulationSystem → Manages the whole process.
-
-Distribution → Stores probability data for demand & lead time.
-
-SimulationCase → Represents daily inventory state.
-
-PerformanceMeasures → Stores final performance results.
-
-🛠 How to Run
-Open the project in Visual Studio.
-
-Make sure the input file is in the correct folder (TestCases/).
-
-Run the program and check the output.
-
-📜 Example Input Format
-nginx
-Copy
-Edit
+## 📜 Example Input Format  
+```
 OrderUpTo  
 100  
 ReviewPeriod  
@@ -62,9 +50,8 @@ LeadDaysDistribution
 1, 0.5  
 2, 0.3  
 3, 0.2  
-📝 Notes
-The simulation uses random numbers, so results may vary.
+```
 
-You can adjust the inventory levels and demand probabilities in the input file.
-
-🚀 Enjoy running your inventory simulation! 🎉
+## 📝 Notes  
+- The simulation uses **random numbers**, so results may vary.  
+- You can adjust the **inventory levels and demand probabilities** in the input file.
